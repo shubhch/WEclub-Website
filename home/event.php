@@ -907,7 +907,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
            <div class="item active">
-        <img src="<?= '../admin_login/'.$img_address1; ?>" alt="Image1" style="width:auto; height:615px;">
+        <img src="<?= '../admin_login/'.$img_address1['img_path']; ?>" alt="Image1" style="width:auto; height:615px;">
       </div>
 
       <div class="item">
