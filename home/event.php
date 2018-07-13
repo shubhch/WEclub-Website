@@ -19,6 +19,7 @@ if($_SESSION['authentication']){
         ?>
         
 <!DOCTYPE html>
+
 <html>
 <title>SRMWEclub &mdash; WeEntrepreneur club</title>
 <link rel="icon"  href="wee.ico" />
