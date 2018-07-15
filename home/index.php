@@ -66,9 +66,14 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
        <span style="font-size: 20px;color:#2883c5;"><?= $n0 ?></span>
        <br>
        <span style="font-size: 15px;color:gray;font-family:Arial,sans-serif">
-          Inrollmemts
+          Enrollmemts
        </span>
-       <br><br>
+        <br><br><hr><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+               <h3 align="bottom" style="font-size: 12px;color:red;font-family:Arial,sans-serif">
+          Website Designed & created By :<br/>
+                   Shivam Tripathi & WeClub developer's Team    
+        </h3>
+
     </center>
   </div>
   
@@ -349,6 +354,9 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
       }
       ?>
      </div> 
+       <?php
+        include("footer1.php");
+        ?>
 
 <script>
 // Script to open and close sidebar
