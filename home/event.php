@@ -907,7 +907,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
            <div class="item active">
-        <img src="<?= '../admin_login/'.$img_address1['img_path']; ?>" alt="Image1" style="width:auto; height:615px;">
+                                   
+        <img src="<?= '../admin_login/'.$img_address1; ?>" alt="Image1" style="width:auto; height:615px;">
       </div>
 
       <div class="item">
@@ -918,33 +919,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
         <img src="<?= '../admin_login/'.$img_address3; ?>" alt="Image 3" style="width:auto; height:615px;">
       </div>
     </div>
-
-    <!-- Left and right controls -->
-    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-      <span class="glyphicon glyphicon-chevron-left"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#myCarousel" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
-</div>
-
-       <div style="width: inherit;height:60px;background-color:transparent;padding: 5px;">
-           <h5>Updates</h5>
-       </div>
-       <div style="width: inherit;height: 400px;background-color: white;">
-
-           <iframe width="33.3333%" height="400px" src="https://www.youtube.com/embed/40riCqvRoMs" style="float: left;border: none;">
-            </iframe>
-           <iframe width="33.3333%" height="400px" src="https://www.youtube.com/embed/IXxh5C9iKFE" style="float: left;border: none;">
-            </iframe>
-           <iframe width="33.3333%" height="400px" src="https://www.youtube.com/embed/Rgqgdddl018" style="float: left;border: none;">
-            </iframe>
-       </div> 
-        
-    
+ 
         <div style="width: inherit;height:60px;background-color:transparent;padding: 5px;">
            <h5>Comments</h5>
        </div>
