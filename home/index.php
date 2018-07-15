@@ -66,7 +66,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
        <span style="font-size: 20px;color:#2883c5;"><?= $n0 ?></span>
        <br>
        <span style="font-size: 15px;color:gray;font-family:Arial,sans-serif">
-          Inrollmemts
+          Enrollmemts
        </span>
        <br><br>
     </center>
